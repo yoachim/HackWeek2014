@@ -1,7 +1,11 @@
+# Make a simple model galaxy for input to a fitting routine.
+
 import numpy as np
 import fsps
+import matplotlib.pylab as plt
+
 # load stellar pop model
-sp = fsps.StellarPopulation(zmet=20
+sp = fsps.StellarPopulation(zmet=20,
                             sfh=1,
                             tau=1.0, #efolding time for SFH in Gyr
                             const=1.0, #mass frac formed in const SFH
