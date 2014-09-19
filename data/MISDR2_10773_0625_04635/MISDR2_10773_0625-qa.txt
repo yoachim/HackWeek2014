@@ -1,0 +1,18 @@
+CoaddQA:Date                         (a) = 2010/03/19_23:52:18Z
+CoaddQA:File                         (a) = /home/svalin/fltops/pipe/01-vsn/04635-MISDR2_10773_0625/d/01-main/0001-img/07-try/qa/manual/MISDR2_10773_0625-qa_v00.txt
+CoaddQA:Dir                          (a) = /home/svalin/fltops/pipe/01-vsn/04635-MISDR2_10773_0625/d/01-main/0001-img/07-try/qa/manual/
+CoaddQA:Vsn                          (j) = 00
+CoaddQA:OW                           (a) = d
+CoaddQA:TileID                       (a) = MISDR2_10773_0625
+CoaddQA:VisitsCoaddedNUV             (a) = 1, 2
+CoaddQA:VisitsCoaddedFUV             (a) = 1, 2
+CoaddQA:GRelease                     (a) = ops-v7_0_2
+CoaddQA:ExpTime                      (d) = NUV=3294.3; FUV=3294.3
+CoaddQA:NHVNom                       (d) = NUV=3315.0; FUV=3327.0
+CoaddQA:RAFldCen                     (d) = NUV=246.733279186193; FUV=246.733280095961
+CoaddQA:DecFldCen                    (d) = NUV=48.1476249809657; FUV=48.1476133279904
+CoaddQA:AnalystID                    (a) = NA
+CoaddQA:Grade                        (a) = PASS
+CoaddQA:Flags                        (a) = NA
+CoaddQA:CommentFlags                 (a) = NA
+CoaddQA:Comments                     (a) = NA

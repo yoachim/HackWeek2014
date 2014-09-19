@@ -1,0 +1,72 @@
+PlateSol:DRA                         (d) = -0.026
+PlateSol:DDec                        (d) = 0.2493
+PlateSol:DRoll                       (d) = -0.00157999999998992
+PlateSol:NumMatches                  (d) = 81
+PlateSol:NumMatchesUsed              (d) = 81
+SExtra:MeanPosErrFix                 (d) = NUV=0.933266871303959; FUV=1.46108217034661
+SExtra:MinPosErrFix                  (d) = NUV=0.933242270450934; FUV=1.45434397640164
+SExtra:MaxPosErrFix                  (d) = NUV=0.934517901246392; FUV=1.46138295657327
+SExtra:MeanPosErr                    (d) = NUV=0.453602841537467; FUV=0.328250915489323
+SExtra:MinPosErr                     (d) = NUV=0.00702608084178137; FUV=0.0133484141968764
+SExtra:MaxPosErr                     (d) = NUV=1.78116592035635; FUV=0.976491277496619
+SExtra:SExDetBGRMS                   (d) = NUV=2.33771; FUV=1.32773
+SExtra:DetBGSig                      (d) = NUV=2.25831795812724; FUV=1.60515901427903
+SExtra:MedianBG                      (d) = NUV=0.00220680236816406; FUV=0.000298917293548584
+SExtra:MedianRR                      (d) = NUV=2709.56201171875; FUV=2897.6298828125
+SExtra:MedianThresh                  (d) = NUV=0.00039961988013181; FUV=0.000200094892282015
+SExtra:NSigmaThresh                  (d) = NUV=2; FUV=2.5
+SExtra:AreaDet                       (d) = NUV=20.4; FUV=20.4
+PhotMap:PhTime0                      (d) = NUV=775224267.995; FUV=775224267.995
+PhotMap:PhTime1                      (d) = NUV=775231833.995; FUV=775231833.995
+PhotMap:ExpTime                      (d) = NUV=3294.3; FUV=3294.3
+PhotMap:NPhRead                      (j) = NUV=56946573; FUV=7318763
+PhotMap:NPhOnMap                     (j) = NUV=51971907; FUV=5979832
+PhotMap:MeanFDead                    (d) = NUV=0.0897272587472903; FUV=0.0145585317265702
+PhotMap:RAFldCen                     (d) = NUV=246.733279186193; FUV=246.733280095961
+PhotMap:DecFldCen                    (d) = NUV=48.1476249809657; FUV=48.1476133279904
+PhotMap:MeanRoll                     (d) = NUV=-52.0098270913067; FUV=-52.0098242671709
+PhotMap:NAspUsed                     (j) = NUV=3308; FUV=3304
+Photmap:NHVNomNUV                    (d) = 3315
+Photmap:NHVNomFUV                    (d) = 3327
+Photmap:NVisitsNUV                   (d) = 2
+Photmap:NVisitsFUV                   (d) = 2
+Photmap:RA0                          (d) = 246.738196
+Photmap:Dec0                         (d) = 48.144446
+GetFWHM:FWHMGaussFit                 (d) = NUV=5.15; FUV=4.4
+GetFWHM:FWHMNSamp                    (j) = NUV=344; FUV=12
+GetFWHM:FWHMGaussFitSum              (d) = NUV=5.35; FUV=4.44
+GetFWHM:FWHMMajSum                   (d) = NUV=7.12; FUV=5.36
+GetFWHM:FWHMMinSum                   (d) = NUV=6.24; FUV=4.82
+GetFWHM:FWHMEllipSum                 (d) = NUV=0.87; FUV=0.9
+GetFWHM:FWHMThetaSum                 (d) = NUV=133.54; FUV=72.91
+GetFWHM:FW80Sum                      (d) = NUV=9.57; FUV=7.18
+GetFWHM:PkPixFracSum                 (d) = NUV=0.0635895853895708; FUV=0.102876258324095
+GetFWHM:FWHMCat                      (d) = NUV=5.45; FUV=5.63
+GetFWHM:FWHMCatMaj                   (d) = NUV=9.66; FUV=6.56
+GMergeQA:NsingleBand                 (j) = NUV=10880; FUV=1301
+GMergeQA:Nmerged                     (j) = 3705
+GMergeQA:MergeMedianDx               (d) = 0.0581437423825264
+GMergeQA:MergeMedianDy               (d) = -0.0234468840062618
+GMergeQA:MergeStdDevDx               (d) = 0.755988478660583
+GMergeQA:MergeStdDevDy               (d) = 0.664087474346161
+GMergeQA:MergeStdDevMeanDx           (d) = 0.0310185831040144
+GMergeQA:MergeStdDevMeanDy           (d) = 0.0272478386759758
+GMergeQA:MergeMedianDRA              (d) = -0.0369157493114471
+GMergeQA:MergeMedianDDec             (d) = -0.0408550724387169
+GMergeQA:MergeStdDevDRA              (d) = 0.693016111850739
+GMergeQA:MergeStdDevDDec             (d) = 0.730058550834656
+GMergeQA:MergeStdDevMeanDRA          (d) = 0.0284347962588072
+GMergeQA:MergeStdDevMeanDDec         (d) = 0.0299546644091606
+MarshalQA:RunDate                    (a) = 100319T235210Z
+MarshalQA:File                       (a) = /home/svalin/fltops/pipe/01-vsn/04635-MISDR2_10773_0625/d/01-main/0001-img/07-try/qa/MISDR2_10773_0625-sumstats.txt
+MarshalQA:InDir                      (a) = /home/svalin/fltops/pipe/01-vsn/04635-MISDR2_10773_0625/d/01-main/0001-img/07-try/
+MarshalQA:InBase                     (a) = MISDR2_10773_0625
+MarshalQA:Vsn                        (a) = 01
+MarshalQA:TileID                     (a) = MISDR2_10773_0625
+MarshalQA:TileNum                    (j) = 04635
+MarshalQA:OW                         (a) = d
+MarshalQA:Visit                      (j) = 0
+MarshalQA:Img                        (j) = 0001
+MarshalQA:Try                        (j) = 07
+MarshalQA:GRelease                   (a) = ops-v7_0_2
+MarshalQA:ExitCode                   (j) = 0
